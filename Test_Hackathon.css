@@ -134,7 +134,7 @@ body {
   transition: transform 0.5s ease-in-out;
   
 }
-.sectionhero img:hover {
+.section-hero img:hover {
   animation: flip 5s infinite;
 }
 /* PHẦN TECH_STACK */
